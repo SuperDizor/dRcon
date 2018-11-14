@@ -1,4 +1,3 @@
-//https://discordapp.com/oauth2/authorize?&client_id=512080043074125825&scope=bot&permissions=0
 const Discord = require("discord.js");
 const Gamedig = require('gamedig');
 const client = new Discord.Client();
